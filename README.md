@@ -10,3 +10,9 @@ RT-1 implementation using Google Collab
  <h2>Expected results </h2>
 
 Fine-tuned robotic transformer to navigate into unseen environments in both simulated and real environments more efficiently and able to reason semantic, geometric and spatial understandings
+
+
+<br><br>
+
+<h3>Author : Namash Aggarwal </h3>
+
